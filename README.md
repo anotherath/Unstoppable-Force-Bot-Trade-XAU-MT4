@@ -132,7 +132,7 @@ OnTick
 
 ## 🧪 Khuyến nghị sử dụng
 
-- Tài khoản **cent hoặc vốn nhỏ**
+- Tài khoản **thử nghiệm hoặc vốn nhỏ**
 - Spread thấp
 - VPS ổn định
 - Không chạy cùng nhiều EA khác trên XAU
