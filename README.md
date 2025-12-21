@@ -139,18 +139,8 @@ OnTick
 
 ---
 
-## 🔧 Gợi ý cải tiến tương lai
-
-- Thêm Equity Stop / Max Drawdown
-- TP động theo Average Price
-- Filter phiên giao dịch (London / New York)
-- Giới hạn DD theo % Equity
-
----
-
 ## 📄 Giấy phép
 
-Sử dụng nội bộ / nghiên cứu.  
 Tác giả chịu **không trách nhiệm** cho mọi rủi ro tài chính phát sinh.
 
 ---
