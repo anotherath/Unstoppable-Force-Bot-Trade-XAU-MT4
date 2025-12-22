@@ -149,3 +149,9 @@ Tác giả chịu **không trách nhiệm** cho mọi rủi ro tài chính phát
 
 > Giao dịch tài chính có rủi ro cao.  
 > EA này **không đảm bảo lợi nhuận** và **không phù hợp cho người mới**.
+
+---
+
+## Ví dụ minh họa
+Kết quả thử nghiệm bot trên cặp XAU/USD (vàng) tại khung thời gian M5.
+![Ảnh thử nghiệm](Image/Unstoppable-Force.png)
