@@ -154,4 +154,4 @@ Tác giả chịu **không trách nhiệm** cho mọi rủi ro tài chính phát
 
 ## Ví dụ minh họa
 Kết quả thử nghiệm bot trên cặp XAU/USD (vàng) tại khung thời gian M5.
-![Ảnh thử nghiệm](Image/Unstoppable-Force.png)
+![Ảnh thử nghiệm](Unstoppable-Force.png)
